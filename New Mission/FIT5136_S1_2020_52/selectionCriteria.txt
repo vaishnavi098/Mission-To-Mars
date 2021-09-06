@@ -1,0 +1,100 @@
+24;50;5;MIT;general practitioner;advanced;english;N/A
+18;32;10;BE;manufacturer;expert;english;hausa, bengali, telugu
+24;50;5;ME;painter;intermediate;english;punjabi, mandarin, french
+24;50;9;ME;designer;advanced;english;javanese
+24;50;4;MBS;surgeon;advanced;english;N/A
+18;50;1;MBBS;surgeon;expert;english;arabic
+24;50;1;BE;electrician;advanced;english;N/A
+24;50;2;MS;nurse;advanced;english;bengali, hausa
+18;32;7;MBS;electrician;advanced;english;greek, russian
+24;50;8;BE;surgeon;advanced;english;russian, arabic
+24;50;3;ME;carpenter;intermediate;english;N/A
+24;45;10;MBS;electrician;advanced;english;N/A
+18;50;5;MBS;electrician;expert;english;portugese, russian, punjabi
+24;45;9;ME;nurse;advanced;english;N/A
+24;50;5;ME;carpenter;advanced;english;hausa, mandarin, italian
+24;45;5;MS;nurse;advanced;english;N/A
+24;45;7;ME;builder;advanced;english;bengali, greek, french
+18;50;4;MBS;designer;expert;english;N/A
+24;50;6;BE;N/A;advanced;english;javanese
+18;50;8;ME;civil engineer;expert;english;N/A
+18;32;4;MBBS;electrician;expert;english;javanese, arabic, telugu
+18;50;3;MBBS;designer;advanced;english;mandarin
+18;32;4;ME;manufacturer;expert;english;french
+24;50;5;BDS;electrician;expert;english;N/A
+18;32;8;MS;N/A;intermediate;english;hausa, hindi
+24;50;4;MS;designer;intermediate;english;punjabi, bengali
+24;50;4;MS;N/A;advanced;english;N/A
+18;32;3;MBBS;general practitioner;advanced;english;mandarin
+18;50;4;MS;N/A;intermediate;english;javanese, mandarin
+18;32;4;MBS;N/A;expert;english;N/A
+24;50;1;BDS;N/A;advanced;english;persian, mandarin
+24;45;9;MIT;N/A;advanced;english;arabic
+24;45;2;MS;carpenter;intermediate;english;hindi
+24;45;2;BDS;civil engineer;intermediate;english;hausa, mandarin
+24;45;4;BE;manufacturer;advanced;english;french, arabic, bengali
+24;50;10;MBBS;manufacturer;advanced;english;N/A
+24;50;3;MBS;nurse;intermediate;english;russian, punjabi
+24;45;3;MS;nurse;intermediate;english;javanese, bengali, french
+18;32;3;BE;nurse;expert;english;N/A
+24;50;3;BDS;builder;advanced;english;N/A
+18;32;7;BDS;civil engineer;intermediate;english;persian, telugu, greek
+24;50;5;MIT;general practitioner;advanced;english;arabic, italian
+24;50;7;MIT;surgeon;advanced;english;arabic, bengali, french
+18;50;5;BDS;builder;expert;english;greek
+18;50;10;ME;manufacturer;advanced;english;N/A
+24;50;3;MBBS;nurse;expert;english;arabic
+18;32;3;MBS;manufacturer;advanced;english;italian
+18;50;3;MBBS;N/A;intermediate;english;greek
+18;32;2;MIT;painter;intermediate;english;telugu, arabic
+24;50;6;BE;electrician;intermediate;english;persian
+24;50;3;MS;painter;advanced;english;french, greek, mandarin
+24;45;6;MIT;builder;expert;english;persian
+24;50;3;MBS;electrician;advanced;english;bengali, russian
+18;32;4;MBBS;N/A;intermediate;english;portugese, greek, persian
+18;32;3;ME;builder;intermediate;english;N/A
+24;45;2;MIT;carpenter;advanced;english;french
+18;50;7;ME;surgeon;intermediate;english;hindi, greek, arabic
+24;45;2;BE;manufacturer;expert;english;greek, hausa
+18;32;4;BDS;nurse;expert;english;french, javanese, punjabi
+24;45;7;ME;nurse;expert;english;greek, arabic
+24;50;2;BE;surgeon;advanced;english;hausa, persian
+24;50;6;MBS;nurse;advanced;english;N/A
+18;50;4;MBBS;builder;advanced;english;russian, punjabi, persian
+24;50;4;MBS;general practitioner;expert;english;hausa
+18;32;2;ME;builder;expert;english;N/A
+18;50;5;BE;nurse;intermediate;english;N/A
+18;50;10;BDS;nurse;expert;english;javanese, hausa, greek
+18;32;2;MS;manufacturer;expert;english;N/A
+24;50;8;MS;electrician;expert;english;N/A
+18;50;10;MIT;civil engineer;advanced;english;N/A
+18;50;9;MIT;general practitioner;expert;english;greek, portugese
+18;32;2;BE;N/A;expert;english;greek, arabic, persian
+18;32;8;MBBS;electrician;advanced;english;N/A
+18;50;1;MBBS;painter;expert;english;mandarin, bengali, hindi
+24;50;2;ME;general practitioner;advanced;english;portugese, bengali, hindi
+18;32;3;MBBS;painter;expert;english;telugu, hausa
+18;50;7;BE;carpenter;intermediate;english;hindi, hausa, italian
+18;50;2;BDS;painter;intermediate;english;bengali, russian
+24;50;8;ME;N/A;intermediate;english;punjabi
+18;50;3;MS;builder;advanced;english;portugese, hindi, italian
+18;50;10;MBBS;surgeon;intermediate;english;hindi, bengali
+24;50;5;MBS;surgeon;expert;english;greek, french, hindi
+18;50;8;MIT;N/A;advanced;english;persian, french, arabic
+18;50;5;ME;N/A;expert;english;arabic, french
+18;32;3;BE;designer;intermediate;english;N/A
+18;50;6;MBS;nurse;advanced;english;telugu
+18;32;7;BE;designer;advanced;english;N/A
+24;45;8;MS;surgeon;expert;english;N/A
+18;50;8;BDS;manufacturer;advanced;english;N/A
+18;32;3;MBS;designer;advanced;english;persian, hindi
+24;50;2;MIT;general practitioner;expert;english;bengali
+24;45;2;MBBS;electrician;intermediate;english;russian, javanese, greek
+24;50;1;BDS;builder;intermediate;english;N/A
+18;50;5;MS;general practitioner;advanced;english;hindi, mandarin, italian
+24;50;6;MBS;carpenter;intermediate;english;N/A
+18;32;5;ME;builder;advanced;english;N/A
+18;50;5;MBS;surgeon;expert;english;punjabi, javanese
+24;45;3;MBS;nurse;intermediate;english;N/A
+24;45;2;BDS;N/A;expert;english;N/A
+24;50;3;MIT;builder;expert;english;greek, telugu, hindi

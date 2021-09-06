@@ -1,0 +1,11 @@
+Implementation:
+
+Feature 3 criteria:
+
+age
+occupation
+work experience
+computer skills
+
+- Remove criteria
+
